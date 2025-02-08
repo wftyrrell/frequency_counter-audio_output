@@ -6,6 +6,8 @@ This project is part of the ECE 3849 course and involves working with audio wave
 
 ## Project Structure
 
+. ├── _kiss_fft_guts.h ├── .ccsproject ├── .config/ ├── .cproject ├── .gitignore ├── .launches/ ├── .project ├── .settings/ ├── .vscode/ ├── .xdchelp ├── audio_waveform.c ├── audio_waveform.h ├── buttons.c ├── buttons.h ├── Crystalfontz128x128_ST7735.c ├── Crystalfontz128x128_ST7735.h ├── Debug/ ├── EK_TM4C1294XL.cmd ├── HAL_EK_TM4C1294XL_Crystalfontz128x128_ST7735.c ├── HAL_EK_TM4C1294XL_Crystalfontz128x128_ST7735.h ├── kiss_fft.c ├── kiss_fft.h ├── kissfft.hh ├── main.c ├── makefile.defs ├── rtos.cfg ├── sampling.c ├── sampling.h ├── src/ ├── sysctl_pll.c ├── sysctl_pll.h ├── targetConfigs/ └── tm4c1294ncpdt.cmd
+
 ## Key Files
 
 - **main.c**: The main file that initializes the system and starts the tasks.
